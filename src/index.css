@@ -105,3 +105,9 @@ header{
 .tag.red{
   color: red;
 }
+
+@media screen and (max-width: 300px) {
+  .search {
+    padding: 0.5rem;
+  }
+}
