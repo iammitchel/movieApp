@@ -106,9 +106,15 @@ header{
   color: red;
 }
 
+@media screen and (max-width: 800px) {
+  .search {
+    padding: 0.4rem;
+  }
+}
+
 @media screen and (max-width: 600px) {
   .search {
-    padding: 0.1rem;
+    padding: 0.3rem;
   }
 }
 
