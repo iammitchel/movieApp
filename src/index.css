@@ -115,6 +115,7 @@ header{
 @media screen and (max-width: 600px) {
   .search {
     padding: 0.3rem;
+    width: 100%;
   }
 }
 
